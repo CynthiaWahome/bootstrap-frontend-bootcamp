@@ -2,6 +2,8 @@
 
 This is a frontend project for a bootcamp website. It uses HTML, Bootstrap, and custom CSS to create a responsive and visually appealing website.
 
+![image](https://github.com/user-attachments/assets/81232308-f877-46e4-bef4-48401d319e71)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -14,11 +16,11 @@ This is a frontend project for a bootcamp website. It uses HTML, Bootstrap, and 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/frontend-bootcamp.git
+    git clone https://github.com/CynthiaWahome/bootstrap-frontend-bootcamp.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd frontend-bootcamp
+    cd bootstrap-frontend-bootcamp
     ```
 
 ## Usage
